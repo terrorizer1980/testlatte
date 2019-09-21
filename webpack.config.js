@@ -53,8 +53,11 @@ const config = {
         from: './node_modules/testcafe-browser-tools/data/*.json', 
         to: 'data/',
         flatten: true
-      },
+      }
     ]),
   ],
+  node : {
+    __filename: false
+ } 
 };
 module.exports = config;
