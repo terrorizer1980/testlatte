@@ -196,8 +196,8 @@
 		"vscode-test": "^1.5.2"
 	},
 	"dependencies": {
-		"testcafe": "^1.14.0",
-		"testcafe-browser-tools": "^1.7.1"
+		"testcafe": "^2.3.0",
+		"testcafe-browser-tools": "^2.0.22"
 	},
 	"repository": {
 		"type": "git",
